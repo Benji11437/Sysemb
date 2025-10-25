@@ -2,7 +2,7 @@
 # Core ML / TensorFlow CPU
 # ---------------------------------
 tensorflow-cpu==2.13.0
-keras==2.13.1
+keras==3.11.3
 Keras-Applications==1.0.8
 efficientnet==1.1.1
 
