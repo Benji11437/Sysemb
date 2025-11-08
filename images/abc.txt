@@ -1,1 +1,0 @@
-■	Création d’une application Streamlit locale, de gestion de l’interaction avec l’utilisateur et d’affichage des images et masks, par appel aux fonctionnalités de l’API
